@@ -1,0 +1,52 @@
+:root{
+--white: #fff;
+--black: #000;
+--gray:#f5f5f5;
+--gray-50: #f9f9f9;
+--gray-100: #ececec;
+--gray-200: #e3e3e3;
+--gray-300: #cdcdcd;
+--gray-400: #b4b4b4;
+--gray-500: #9b9b9b;
+--gray-600: #676767;
+--gray-700: #424242;
+--gray-750: #2f2f2f;
+--gray-800: #212121;
+--gray-900: #171717;
+--gray-950: #0d0d0d;
+--red-500: #ef4444;
+--red-700: #b91c1c;
+--brand-purple: #ab68ff;
+--green-blue: #00B388;
+--chatgpt: #74aa9c;
+}
+
+.sidemenu{
+    width: 260px;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.sidemenu-button{
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+    transition: ease 0.25 all;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-transition: ease 0.25 all;
+    -moz-transition: ease 0.25 all;
+    -ms-transition: ease 0.25 all;
+    -o-transition: ease 0.25 all;
+}
+
+.sidemenu-button:hover{
+    background-color: rgba(19, 19, 19, 0.1);
+}
+
+.sidemenu-button span{
+    padding-left: 6px;
+    padding-right: 12px;
+}
