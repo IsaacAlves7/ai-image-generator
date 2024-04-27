@@ -7,7 +7,7 @@ Esse é um projeto de integração com ChatGPT usando Node.js e React.js.
 Technologies:
 - [x] **Client**: React, Axios, CSS3
 - [x] **Server**: Node.js, [OpenAI API](https://platform.openai.com/docs/api-reference), CORS, .Env, Express
-- [x] **Architecture**: Client-Server, REST API
+- [x] **Architecture**: Client-Server, REST API, N-Tier Architecture
 
 PATH Directory:
 <pre>

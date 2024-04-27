@@ -4,10 +4,10 @@ import Avatar from '../../assets/avatar';
 
 // user (user || chatgpt)
 // message - aonde vai estar o prompt
-{
-    user: 'gpt'
-    message: 'crie um nome de artigo'
-}
+// {
+//     user: 'gpt'
+//     message: 'crie um nome de artigo'
+// }
 
 export const ChatMessage = ({message}) => {
   <div className={`chat-message ${message.user === 'gpt'}` && 'chatgpt'}>
